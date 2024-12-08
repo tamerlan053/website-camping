@@ -34,6 +34,7 @@
   --z-fixed: 100;
 }
 
+/*========== Responsive typography ==========*/
 @media screen and (min-width: 1024px) {
   :root {
     --biggest-font-size: 4rem;
